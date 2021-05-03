@@ -1,0 +1,4 @@
+# Godot auto generated files
+*.gen.*
+.import/
+*.import
